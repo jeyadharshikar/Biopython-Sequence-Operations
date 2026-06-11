@@ -1,3 +1,3 @@
 from Bio.Seq import Seq
 dna = Seq("GAGCTGTGACTGCGCCATGGGGCTCAGCGACGGGGAATGGCAGTTGGTGCTGAACGTCTGGGGGAAGGTG")
-print(len(dna))
+print("Length=",len(dna))
